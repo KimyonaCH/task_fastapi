@@ -24,5 +24,5 @@ docker pull kimyonavl/task_fastapi:latest
 ```
 and run docker
 ```
-docker run -d -p 8000:8000 task_fastapi_from_kimyona
+docker run -d -p 8000:8000 kimyonavl/task_fastapi
 ```
